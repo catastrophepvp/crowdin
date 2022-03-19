@@ -1,0 +1,5 @@
+kick: |
+  <gold><bold>Catastrophe PvP</bold></gold>
+  <red>You have been kicked.</red>
+
+  <gray>{{reason}}</gray>
